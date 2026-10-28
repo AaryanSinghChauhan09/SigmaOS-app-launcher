@@ -1,0 +1,10 @@
+[package]
+name = "sigmaos_app_launcher"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[lib]
+name = "sigmaos_app_launcher"
+path = "src/lib.rs"
